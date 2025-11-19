@@ -16,3 +16,6 @@
 
 - Setup local lab environment
 [Setup](https://microsoftlearning.github.io/PL-300-Microsoft-Power-BI-Data-Analyst/Instructions/Labs/00-setup.html)
+
+- AdventureWorks sample databases
+[AdventureWorksDW2020](https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorksDW2022.bak)
